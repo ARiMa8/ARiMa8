@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/andi-rizki-mahesa-6658932a7/">
     <img src="https://img.shields.io/badge/Andi%20Rizki%20Mahesa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/sepsarip">
+  <a href="https://instagram.com/rzkimahesa">
     <img src="https://img.shields.io/badge/-@rzkimahesa-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>

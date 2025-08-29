@@ -18,7 +18,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ARiMa8&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ARiMa8&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ARiMa8&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARiMa8&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

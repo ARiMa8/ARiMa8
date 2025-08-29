@@ -33,5 +33,5 @@
   </a>
 </p>
 
-# ❤️ &nbsp;Wife
+# 💍 &nbsp;Wife
 ![601150_98](https://github.com/user-attachments/assets/0f40b0ed-0981-480b-ab15-5f4fd85658e3)

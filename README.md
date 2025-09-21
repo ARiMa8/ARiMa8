@@ -5,7 +5,6 @@
 - 🌱 I am passionate about website development, machine learning, game development, and efficient software engineering practices.
 - ❤️ Fun fact: Mary "Lady" Ann ❤️
 
-
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
